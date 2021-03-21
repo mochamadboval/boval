@@ -1,5 +1,5 @@
 author = "Mochamad Boval"
-baseURL = "https://boval.netlify.app/"
+baseURL = "https://boval.my.id/"
 languageCode = "id"
 paginate = 10
 theme = "paper"

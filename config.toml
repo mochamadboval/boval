@@ -1,0 +1,15 @@
+author = "Mochamad Boval"
+baseURL = "https://boval.netlify.app/"
+languageCode = "id"
+paginate = 10
+theme = "paper"
+title = "Boval"
+
+[[menu.main]]
+identifier = "portofolio"
+name = "Portofolio"
+url = "#"
+[[menu.main]]
+identifier = "profil"
+name = "Profil"
+url = "/profil"

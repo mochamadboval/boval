@@ -8,7 +8,7 @@ title = "Boval"
 [[menu.main]]
 identifier = "portofolio"
 name = "Portofolio"
-url = "#"
+url = "/portofolio"
 [[menu.main]]
 identifier = "profil"
 name = "Profil"
